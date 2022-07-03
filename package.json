@@ -4,6 +4,8 @@
 	"description": "Language pack extension for Belarusian",
 	"version": "0.0.1",
 	"publisher": "VitaliBialkou",
+	"publisherDisplayName": "Vitali Bialkou",
+	"author": "Vitali Bialkou",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/bialkou/vscode-by"
