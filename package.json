@@ -3,7 +3,7 @@
 	"displayName": "Belarusian Language Pack for Visual Studio Code",
 	"description": "Language pack extension for Belarusian",
 	"version": "0.0.1",
-	"publisher": "Vitali Bialkou",
+	"publisher": "VitaliBialkou",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/bialkou/vscode-by"
